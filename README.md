@@ -30,14 +30,14 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="JoshMadakor | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[Twitter]: https://twitter.com/joshmadakor
-[Facebook]: https://www.youtube.com/c/joshmadakor
-[Instagram]: https://www.instagram.com/joshmadakor/
+[Twitter]: https://twitter.com/lioua4
+[Facebook]: https://www.facebook.com/liouacc/
+[Instagram]: https://www.instagram.com/whodisliou/
 [Linkedin]: https://www.linkedin.com/in/aliou-coulibaly-b42937213
 
 <!--
